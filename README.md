@@ -1,4 +1,7 @@
-### Hi there 👋
+### I'm software engineer analyst 👩‍💻
+Tech Enthusiast
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TuanySantos&show_icons=true&theme=dracula)
 
 <!--
 **TuanySantos/TuanySantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
