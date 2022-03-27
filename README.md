@@ -1,5 +1,8 @@
-### I'm software engineer analyst 👩‍💻
-Tech Enthusiast
+### Hi there! 🖐😉
+
+### I'm Tech Enthusiast 💻
+ - software engineer analyst 👩‍🎓
+ - Back-end developer 👩‍💻
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TuanySantos&show_icons=true&theme=dracula)
 
