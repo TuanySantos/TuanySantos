@@ -3,7 +3,10 @@
 ### I'm Tech Enthusiast 💻
  - software engineer analyst 👩‍🎓
  - Back-end developer 👩‍💻
-          
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TuanySantos)](https://github.com/TuanySantos/github-readme-stats)
+
 <!--
 **TuanySantos/TuanySantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
