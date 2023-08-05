@@ -1,7 +1,5 @@
 ### Hi there! 🖐😉
 
-![Snake animation](https://github.com/TuanySantos/TuanySantos/blob/output/github-contribution-grid-snake.svg)
-
 ### I'm Tech Enthusiast 💻
  - software engineer analyst 👩‍🎓
  - Back-end developer 👩‍💻
