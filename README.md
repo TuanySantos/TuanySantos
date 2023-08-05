@@ -1,13 +1,3 @@
-### Hi there! 🖐😉
-
-### I'm Tech Enthusiast 💻
- - software engineer analyst 👩‍🎓
- - Back-end developer 👩‍💻
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TuanySantos&show_icons=true&theme=gruvbox))](https://github.com/TuanySantos/github-readme-stats)
-
-
 ![snake gif](https://github.com/TuanySantos/TuanySantos/blob/output/github-contribution-grid-snake.svg)
 
 
