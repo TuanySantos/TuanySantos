@@ -1,6 +1,6 @@
 ### Hi there! 🖐😉
 
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/seu-usuário-aqui/TuanySantos/blob/output/github-contribution-grid-snake.svg)
 
 ### I'm Tech Enthusiast 💻
  - software engineer analyst 👩‍🎓
