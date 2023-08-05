@@ -1,3 +1,12 @@
+### Hi there! 🖐😉
+
+### I'm Tech Enthusiast 💻
+ - software engineer analyst 👩‍🎓
+ - Back-end developer 👩‍💻
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TuanySantos&show_icons=true&theme=gruvbox))](https://github.com/TuanySantos/github-readme-stats)
+
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
 
