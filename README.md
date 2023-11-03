@@ -4,7 +4,11 @@ Software engineer analyst 👩‍🎓 / Back-end developer 👩‍💻
 ## LEARNING
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/> <img loading="lazy" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/apachekafka/apachekafka-original.svg" width="40" height="40"/> <img loading="lazy" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40"/> <img loading="lazy" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/git/git-original.svg" width="40" height="40"/> <img loading="lazy" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/php/php-original.svg" width="40" height="40"/> <img loading="lazy" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/postgresql/postgresql-original.svg" width="40" height="40"/><img loading="lazy" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original.svg" width="40" height="40"/> <img loading="lazy" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nodejs/nodejs-original.svg" width="40" height="40"/><img loading="lazy" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original.svg" width="40" height="40"/> <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/7/79/Spring_Boot.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn-icons-png.flaticon.com/512/174/174881.png" width="40" height="40"/> <img loading="lazy" src="https://cdn-icons-png.flaticon.com/512/919/919853.png" width="40" height="40"/>
 <img loading="lazy" src="https://avatars.githubusercontent.com/u/874086?s=280&v=4" width="40" height="40"/> 
-<img loading="lazy" src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" width="40" height="40"/>
+<img loading="lazy" src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" width="40" height="40"/> 
+<img loading="lazy" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" width="40" height="40"/>
+
+
+
 
 
 
