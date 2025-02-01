@@ -10,6 +10,12 @@
 
 <p>I strive to create resilient systems that solve real-world problems and bring tangible value to businesses. Currently, I'm deepening my knowledge of <strong>Software Architecture</strong> to develop even more innovative and scalable solutions.</p>
 
+<h3>🎓 <strong>Education</strong></h3>
+<ul>
+  <li>Bachelor's in <strong>Computer Science</strong></li>
+  <li>Currently pursuing an <strong>MBA in Software Engineering</strong></li>
+</ul>
+
 <h3>📞 <strong>Contact Me</strong></h3>
 
 <ul>
