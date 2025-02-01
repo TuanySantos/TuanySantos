@@ -1,4 +1,4 @@
-### I💻 Back-End Developer | Software Architect | Java & Database Specialist
+### 💻 Back-End Developer | Software Architect | Java & Database Specialist
 
 With over 8 years of experience in software development, my journey spans from back-end development to software architecture. Currently, I work as a Software Architect, focusing on best practices, scalability, and software engineering.
 
