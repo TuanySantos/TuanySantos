@@ -1,5 +1,17 @@
-### I'm Tech Enthusiast 💻🖐😉
-Software engineer analyst 👩‍🎓 / Back-end developer 👩‍💻
+### I💻 Back-End Developer | Software Architect | Java & Database Specialist
+
+With over 8 years of experience in software development, my journey spans from back-end development to software architecture. Currently, I work as a Software Architect, focusing on best practices, scalability, and software engineering.
+
+🔹 Key Skills:
+✔ Advanced Java Development
+✔ Software Architecture & Engineering
+✔ Relational and NoSQL Databases
+✔ Messaging Systems & Distributed Applications
+✔ Kubernetes & DevOps (studying and hands-on experience)
+
+🚀 Besides my back-end expertise, I have worked with React Native for mobile development and Node.js, expanding my knowledge of different tech stacks and approaches. I am always eager to learn, improve, and share knowledge about best practices, software architecture, and technology innovation.
+
+📩 Open to connections and discussions about technology!
 
 ## LEARNING
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/> <img loading="lazy" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/apachekafka/apachekafka-original.svg" width="40" height="40"/> <img loading="lazy" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40"/> <img loading="lazy" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/git/git-original.svg" width="40" height="40"/> <img loading="lazy" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/php/php-original.svg" width="40" height="40"/> <img loading="lazy" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/postgresql/postgresql-original.svg" width="40" height="40"/><img loading="lazy" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original.svg" width="40" height="40"/> <img loading="lazy" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nodejs/nodejs-original.svg" width="40" height="40"/><img loading="lazy" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original.svg" width="40" height="40"/> <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/7/79/Spring_Boot.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn-icons-png.flaticon.com/512/174/174881.png" width="40" height="40"/> <img loading="lazy" src="https://cdn-icons-png.flaticon.com/512/919/919853.png" width="40" height="40"/>
