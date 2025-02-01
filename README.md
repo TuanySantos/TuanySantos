@@ -1,55 +1,48 @@
-### 💻 Back-End Developer | Software Architect | Java & Database Specialist
+<h3>💻 <strong>Back-End Developer | Software Architect | Java & Database Specialist</strong></h3>
 
-With over 8 years of experience in software development, my journey spans from back-end development to software architecture. Currently, I work as a Software Architect, focusing on best practices, scalability, and software engineering.
+<p>With over 10 years of experience, I specialize in back-end development and software architecture, particularly in <strong>Java</strong>, <strong>Spring Boot</strong>, <strong>Kubernetes</strong>, <strong>Messaging Systems</strong>, and <strong>Microservices Architecture</strong>. I focus on building scalable, efficient, and secure solutions, driving projects from conception to delivery.</p>
 
-🔹 Key Skills:
-✔ Advanced Java Development
-✔ Software Architecture & Engineering
-✔ Relational and NoSQL Databases
-✔ Messaging Systems & Distributed Applications
-✔ Kubernetes & DevOps (studying and hands-on experience)
+<ul>
+  <li><strong>Technologies</strong>: Java, Spring Boot, Kubernetes, Kafka, RabbitMQ, GraphQL, Azure, CI/CD, Docker, Microservices, REST APIs, SQL & NoSQL Databases</li>
+  <li><strong>Core Competencies</strong>: Architecture design, system integration, performance optimization, technology migration, legacy system upgrades</li>
+  <li><strong>Best Practices</strong>: Automated testing, code refactoring, infrastructure as code (IaC), continuous delivery, agile methodologies</li>
+</ul>
 
-🚀 Besides my back-end expertise, I have worked with React Native for mobile development and Node.js, expanding my knowledge of different tech stacks and approaches. I am always eager to learn, improve, and share knowledge about best practices, software architecture, and technology innovation.
+<p>I strive to create resilient systems that solve real-world problems and bring tangible value to businesses. Currently, I'm deepening my knowledge of <strong>Software Architecture</strong> to develop even more innovative and scalable solutions.</p>
 
-📩 Open to connections and discussions about technology!
+<h3>📞 <strong>Contact Me</strong></h3>
 
-## LEARNING
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/> <img loading="lazy" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/apachekafka/apachekafka-original.svg" width="40" height="40"/> <img loading="lazy" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40"/> <img loading="lazy" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/git/git-original.svg" width="40" height="40"/> <img loading="lazy" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/php/php-original.svg" width="40" height="40"/> <img loading="lazy" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/postgresql/postgresql-original.svg" width="40" height="40"/><img loading="lazy" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original.svg" width="40" height="40"/> <img loading="lazy" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nodejs/nodejs-original.svg" width="40" height="40"/><img loading="lazy" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original.svg" width="40" height="40"/> <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/7/79/Spring_Boot.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn-icons-png.flaticon.com/512/174/174881.png" width="40" height="40"/> <img loading="lazy" src="https://cdn-icons-png.flaticon.com/512/919/919853.png" width="40" height="40"/>
-<img loading="lazy" src="https://avatars.githubusercontent.com/u/874086?s=280&v=4" width="40" height="40"/> 
-<img loading="lazy" src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" width="40" height="40"/> 
-<img loading="lazy" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="40" height="40"/>
-<img loading="lazy" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="40" height="40"/>
+<ul>
+  <li><a href="https://instagram.com/tuanybsantos_89" target="_blank">Instagram</a></li>
+  <li><a href="mailto:tuanybsantos@gmail.com">Email</a></li>
+  <li><a href="https://www.linkedin.com/in/tuanybsantos" target="_blank">LinkedIn</a></li>
+</ul>
 
+<h3>🚀 <strong>Currently Working On</strong></h3>
 
+<ul>
+  <li>Improving the scalability of microservices using Kubernetes and Docker</li>
+  <li>Automating deployment pipelines with <strong>CI/CD</strong> using Azure</li>
+  <li>Designing <strong>cloud-native</strong> architectures with focus on resilience and high availability</li>
+</ul>
 
+<h3>📚 <strong>What I'm Learning</strong></h3>
 
+<ul>
+  <li>Advanced concepts of <strong>Software Architecture</strong></li>
+  <li>Scaling and optimizing distributed systems</li>
+  <li>Exploring <strong>serverless architectures</strong> and <strong>event-driven systems</strong></li>
+</ul>
 
-## CONTACTS
-<div>
-<a href="https://instagram.com/tuanybsantos_89" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:tuanybsantos@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/tuanybsantos" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
-<img loading="lazy" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+<h3>💬 <strong>Ask Me About</strong></h3>
 
-<div>
-<a href="https://github.com/TuanySantos">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TuanySantos&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=TuanySantos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+<ul>
+  <li>Best practices in <strong>Java</strong> and <strong>Spring Boot</strong> development</li>
+  <li>Design patterns and <strong>microservices</strong> architecture</li>
+  <li><strong>Cloud computing</strong> and <strong>Kubernetes</strong></li>
+  <li>Database optimization (SQL & NoSQL)</li>
+</ul>
 
-<!--
-**TuanySantos/TuanySantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>⚡ <strong>Fun Fact</strong></h3>
 
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>In my spare time, I enjoy exploring new technologies and contributing to open-source projects. I’m always eager to collaborate with fellow developers to solve interesting challenges!</p>
